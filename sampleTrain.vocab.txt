@@ -1,0 +1,17 @@
+great
+movie
+just
+and
+enjoyable
+sad
+but
+cheap
+boring
+
+
+
+
+class_0_predicted_value = 0.6 * 0.11 * 0.16 = 0.005
+class_1_predicted_value = 0.4 * 0.06 * 0.12 = 0.004
+
+d5 is predicted as class 0 because class_0_predicted_value is greater than class_1_predicted_value
